@@ -270,8 +270,8 @@ namespace SortAlgorithm
         }
         // 循环结束，lt指向==v部分的第一个元素
         swap( arr[l],arr[--lt]);
-        // 此时，lt指向<v部分的最后一个元素
-        __quickSort3( arr, l, lt );
+        // 此时，lt依旧指向==v部分的第一个元素
+        __quickSort3( arr, l, lt - 1 );
         __quickSort3( arr, gt, r );
     }
     // 三路快排
