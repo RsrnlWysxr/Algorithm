@@ -1,3 +1,0 @@
-/cygdrive/d/Clion_work_space/removeElement/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/Clion_work_space/removeElement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/Clion_work_space/removeElement/cmake-build-debug/CMakeFiles/removeElement.dir
