@@ -1,5 +1,5 @@
 # Algorithm
-使用C++语言实现基础算法
+使用C++语言实现基础算法以及完成leetcode问题
 
 个人邮箱：Rsrnl_Wysxr@163.com
 
